@@ -1,10 +1,9 @@
 [
   {
-    "id": "40de8c2f-8aeb-4d2e-b9a1-7fd89c8d7ba7",
-    "title": "test",
-    "excerpt": "test",
-    "date": "2026-03-25",
-    "published": true,
-    "imageUrl": "https://raw.githubusercontent.com/janik-technika/deddreved/main/public/content/uploads/news/1774462374525_7f8047283f1a5bb1a1365390648d0784.jpg"
+    "id": "03540c0c-1c21-49b1-a79d-ef7426ba34fd",
+    "title": "Nová aktualita",
+    "excerpt": "Připravujeme",
+    "date": "2026-04-07",
+    "published": true
   }
 ]
